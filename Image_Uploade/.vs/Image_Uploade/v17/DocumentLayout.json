@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manish\\source\\repos\\Image_Uploade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4BEDF9-F002-4AAB-8523-A725909F572A}|Image_Uploade\\Image_Uploade.csproj|c:\\users\\manish\\source\\repos\\image_uploade\\image_uploade\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB4BEDF9-F002-4AAB-8523-A725909F572A}|Image_Uploade\\Image_Uploade.csproj|solutionrelative:image_uploade\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4BEDF9-F002-4AAB-8523-A725909F572A}|Image_Uploade\\Image_Uploade.csproj|C:\\Users\\manish\\source\\repos\\Image_Uploade\\image_uploade\\dbimg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB4BEDF9-F002-4AAB-8523-A725909F572A}|Image_Uploade\\Image_Uploade.csproj|solutionrelative:image_uploade\\dbimg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4BEDF9-F002-4AAB-8523-A725909F572A}|Image_Uploade\\Image_Uploade.csproj|C:\\Users\\manish\\source\\repos\\Image_Uploade\\image_uploade\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AB4BEDF9-F002-4AAB-8523-A725909F572A}|Image_Uploade\\Image_Uploade.csproj|solutionrelative:image_uploade\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4BEDF9-F002-4AAB-8523-A725909F572A}|Image_Uploade\\Image_Uploade.csproj|C:\\Users\\manish\\source\\repos\\Image_Uploade\\image_uploade\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB4BEDF9-F002-4AAB-8523-A725909F572A}|Image_Uploade\\Image_Uploade.csproj|solutionrelative:image_uploade\\models\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB4BEDF9-F002-4AAB-8523-A725909F572A}|Image_Uploade\\Image_Uploade.csproj|C:\\Users\\manish\\source\\repos\\Image_Uploade\\image_uploade\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB4BEDF9-F002-4AAB-8523-A725909F572A}|Image_Uploade\\Image_Uploade.csproj|solutionrelative:image_uploade\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Image_Uploade\\Image_Uploade\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "Image_Uploade\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Image_Uploade\\Image_Uploade\\Model1.Context.cs",
+              "RelativeToolTip": "Image_Uploade\\Model1.Context.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAhwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T07:31:31.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Image_Uploade\\Image_Uploade\\Models\\Image.cs",
+              "RelativeDocumentMoniker": "Image_Uploade\\Models\\Image.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Image_Uploade\\Image_Uploade\\Models\\Image.cs",
+              "RelativeToolTip": "Image_Uploade\\Models\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T07:01:07.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DBImg.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Image_Uploade\\Image_Uploade\\DBImg.cs",
+              "RelativeDocumentMoniker": "Image_Uploade\\DBImg.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Image_Uploade\\Image_Uploade\\DBImg.cs",
+              "RelativeToolTip": "Image_Uploade\\DBImg.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T05:41:35.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Image_Uploade\\Image_Uploade\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Image_Uploade\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Image_Uploade\\Image_Uploade\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Image_Uploade\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T05:09:53.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\source\\repos\\Image_Uploade\\Image_Uploade\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Image_Uploade\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\manish\\source\\repos\\Image_Uploade\\Image_Uploade\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Image_Uploade\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowCoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T04:43:49.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

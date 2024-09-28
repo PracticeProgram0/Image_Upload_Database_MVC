@@ -1,0 +1,27 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <title>Index Page</title>
+</head>
+<body>
+    <div>
+        <form action="/Home/SaveImage" method="post" enctype="multipart/form-data">
+            <br /><br />
+            Name:@Html.TextBox("Name")<br /><br /><br />
+            <input type="file" name="file" id="Img" /><br /><br />
+            <input type="SUBMIT" value="Save Image" /><br /><br />
+        </form>
+    </div>
+    <div>
+        <img src="~/Content/UserImg/@ViewBag.ImgName" height="300" width="200" alt="Check the internet connetion " />
+    </div>
+</body>
+</html>
